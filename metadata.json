@@ -1,0 +1,5 @@
+{
+  "name": "Project IDE",
+  "description": "A responsive web application featuring a dual-editor for interacting with the Gemini API for code generation and a multi-tab Monaco editor for development, complete with AI profile management and file download capabilities and a document editor all moving fluidly through the project manager.",
+  "requestFramePermissions": []
+}
